@@ -29,5 +29,6 @@ doi: 10.32614/RJ-2021-053
 url: "https://doi.org/10.32614/RJ-2021-053"
 repository: "https://github.com/ddsjoberg/gtsummary"
 abstract: "The gtsummary package provides an elegant and flexible way to create publication-ready summary tables in R. A critical part of the work of statisticians, data scientists, and analysts is summarizing data sets and regression models in R and publishing or sharing polished summary tables. The gtsummary package was created to streamline these everyday analysis tasks by allowing users to easily create reproducible summaries of data sets, regression models, survey data, and survival data with a simple interface and very little code. The package follows a tidy framework, making it easy to integrate with standard data workflows, and offers many table customization features through function arguments, helper functions, and custom themes."
+version: 1.4.1
 date-released: 2017-12-18
 
