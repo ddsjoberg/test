@@ -19,5 +19,3 @@ authors:
   given-names: "Joseph"
   orcid: "https://orcid.org/0000-0001-7097-700X"
 title: "Reproducible Summary Tables with the gtsummary Package"
-journal: "The R Journal"
-year: 2021
