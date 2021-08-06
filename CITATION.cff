@@ -25,7 +25,8 @@ volume: 13
 issue: 1
 start: 570
 end: 580
+doi: 10.32614/RJ-2021-053
+url: "https://doi.org/10.32614/RJ-2021-053"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
 date-released: 2017-12-18
-url: "https://github.com/github/linguist"
+
