@@ -20,6 +20,11 @@ authors:
   orcid: "https://orcid.org/0000-0001-7097-700X"
 title: "Reproducible Summary Tables with the gtsummary Package"
 journal: "The R Journal"
+year: 2021
+volume: 13
+issue 1
+start: 570
+end: 580
 version: 2.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2017-12-18
