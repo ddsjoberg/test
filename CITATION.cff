@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "To cite gtsummary in publications use:"
+
 title: "Reproducible Summary Tables with the gtsummary Package"
 authors:
 - family-names: "Sjoberg"
